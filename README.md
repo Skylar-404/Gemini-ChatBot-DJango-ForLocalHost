@@ -9,8 +9,7 @@ This project is ready-to-use once configured — ideal for quick deployment and 
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/gemini-mini-chatbot.git
-cd gemini-mini-chatbot
+git clone https://github.com/Skylar-404/Gemini-ChatBot-DJango-ForLocalHost.git
 ```
 ### 2. Ensure Python is Installed
 
