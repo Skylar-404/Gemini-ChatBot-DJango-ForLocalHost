@@ -1,3 +1,0 @@
-dajango
-google-generativeai
-python-dotenv
